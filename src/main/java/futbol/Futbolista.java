@@ -73,10 +73,9 @@ public class Futbolista implements Comparable<Futbolista> {
 
 	//Fin set y get
 
-	@Override
 	public int compareTo(Futbolista o) {
 		// TODO Auto-generated method stub
-		return 0;
+		return 1;
 	}
 	
 }
